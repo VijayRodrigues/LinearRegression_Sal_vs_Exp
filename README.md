@@ -1,1 +1,1 @@
-# LinearRegression_Sal_vs_Exp
+# SimpleLinearRegression_Sal_vs_Exp
